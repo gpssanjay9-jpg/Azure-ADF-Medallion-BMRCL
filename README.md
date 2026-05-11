@@ -39,7 +39,6 @@ The `/sample` folder contains the direct outputs from each stage of the pipeline
 ## ⚙️ Reliability & Performance Tuning
 To meet enterprise-grade **SLA requirements**, the following features were implemented:
 * **Fault Tolerance:** Mechanized retry policies (30-second intervals) for API ingestion.
-* **SLA Optimization:** Optimized SQL extraction logic, contributing to a **35% reduction** in processing latency.
 * **Governance:** Enforced security via Linked Services and computerized validation gates for data compliance.
 
 ---
