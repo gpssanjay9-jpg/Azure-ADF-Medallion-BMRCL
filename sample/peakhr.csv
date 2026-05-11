@@ -1,0 +1,1163 @@
+STATION,Weekday,AMPM,peakhr
+11-Baiyappanahalli,1,AM,12-14hrs
+11-Baiyappanahalli,2,AM,9-11hrs
+11-Baiyappanahalli,3,AM,9-11hrs
+11-Baiyappanahalli,4,AM,9-11hrs
+11-Baiyappanahalli,5,AM,9-11hrs
+11-Baiyappanahalli,6,AM,9-11hrs
+11-Baiyappanahalli,7,AM,9-11hrs
+11-Baiyappanahalli,1,PM,18-20hrs
+11-Baiyappanahalli,2,PM,18-20hrs
+11-Baiyappanahalli,3,PM,18-20hrs
+11-Baiyappanahalli,4,PM,18-20hrs
+11-Baiyappanahalli,5,PM,18-20hrs
+11-Baiyappanahalli,6,PM,18-20hrs
+11-Baiyappanahalli,7,PM,16-18hrs
+110-Kempegowda,1,AM,12-14hrs
+110-Kempegowda,2,AM,8-10hrs
+110-Kempegowda,3,AM,9-11hrs
+110-Kempegowda,4,AM,9-11hrs
+110-Kempegowda,5,AM,9-11hrs
+110-Kempegowda,6,AM,10-12hrs
+110-Kempegowda,7,AM,10-12hrs
+110-Kempegowda,1,PM,17-19hrs
+110-Kempegowda,2,PM,18-20hrs
+110-Kempegowda,3,PM,18-20hrs
+110-Kempegowda,4,PM,18-20hrs
+110-Kempegowda,5,PM,19-21hrs
+110-Kempegowda,6,PM,18-20hrs
+110-Kempegowda,7,PM,18-20hrs
+111-Bangalore City Station,1,AM,11-13hrs
+111-Bangalore City Station,2,AM,8-10hrs
+111-Bangalore City Station,3,AM,9-11hrs
+111-Bangalore City Station,4,AM,9-11hrs
+111-Bangalore City Station,5,AM,9-11hrs
+111-Bangalore City Station,6,AM,9-11hrs
+111-Bangalore City Station,7,AM,9-11hrs
+111-Bangalore City Station,1,PM,18-20hrs
+111-Bangalore City Station,2,PM,18-20hrs
+111-Bangalore City Station,3,PM,18-20hrs
+111-Bangalore City Station,4,PM,18-20hrs
+111-Bangalore City Station,5,PM,18-20hrs
+111-Bangalore City Station,6,PM,18-20hrs
+111-Bangalore City Station,7,PM,18-20hrs
+112-Magadi Road,1,AM,12-14hrs
+112-Magadi Road,2,AM,9-11hrs
+112-Magadi Road,3,AM,9-11hrs
+112-Magadi Road,4,AM,9-11hrs
+112-Magadi Road,5,AM,9-11hrs
+112-Magadi Road,6,AM,9-11hrs
+112-Magadi Road,7,AM,9-11hrs
+112-Magadi Road,1,PM,16-18hrs
+112-Magadi Road,2,PM,18-20hrs
+112-Magadi Road,3,PM,17-19hrs
+112-Magadi Road,4,PM,18-20hrs
+112-Magadi Road,5,PM,18-20hrs
+112-Magadi Road,6,PM,18-20hrs
+112-Magadi Road,7,PM,16-18hrs
+113-Hosahalli,1,AM,11-13hrs
+113-Hosahalli,2,AM,9-11hrs
+113-Hosahalli,3,AM,9-11hrs
+113-Hosahalli,4,AM,9-11hrs
+113-Hosahalli,5,AM,9-11hrs
+113-Hosahalli,6,AM,9-11hrs
+113-Hosahalli,7,AM,9-11hrs
+113-Hosahalli,1,PM,15-17hrs
+113-Hosahalli,2,PM,18-20hrs
+113-Hosahalli,3,PM,18-20hrs
+113-Hosahalli,4,PM,17-19hrs
+113-Hosahalli,5,PM,18-20hrs
+113-Hosahalli,6,PM,18-20hrs
+113-Hosahalli,7,PM,17-19hrs
+114-Vijayanagar,1,AM,12-14hrs
+114-Vijayanagar,2,AM,9-11hrs
+114-Vijayanagar,3,AM,9-11hrs
+114-Vijayanagar,4,AM,9-11hrs
+114-Vijayanagar,5,AM,9-11hrs
+114-Vijayanagar,6,AM,9-11hrs
+114-Vijayanagar,7,AM,9-11hrs
+114-Vijayanagar,1,PM,17-19hrs
+114-Vijayanagar,2,PM,17-19hrs
+114-Vijayanagar,3,PM,18-20hrs
+114-Vijayanagar,4,PM,18-20hrs
+114-Vijayanagar,5,PM,18-20hrs
+114-Vijayanagar,6,PM,18-20hrs
+114-Vijayanagar,7,PM,18-20hrs
+115-Attiguppe,1,AM,12-14hrs
+115-Attiguppe,2,AM,9-11hrs
+115-Attiguppe,3,AM,9-11hrs
+115-Attiguppe,4,AM,9-11hrs
+115-Attiguppe,5,AM,9-11hrs
+115-Attiguppe,6,AM,9-11hrs
+115-Attiguppe,7,AM,9-11hrs
+115-Attiguppe,1,PM,16-18hrs
+115-Attiguppe,2,PM,18-20hrs
+115-Attiguppe,3,PM,18-20hrs
+115-Attiguppe,4,PM,18-20hrs
+115-Attiguppe,5,PM,18-20hrs
+115-Attiguppe,6,PM,18-20hrs
+115-Attiguppe,7,PM,15-17hrs
+116-Deepanjali Nagar,1,AM,12-14hrs
+116-Deepanjali Nagar,2,AM,9-11hrs
+116-Deepanjali Nagar,3,AM,9-11hrs
+116-Deepanjali Nagar,4,AM,9-11hrs
+116-Deepanjali Nagar,5,AM,9-11hrs
+116-Deepanjali Nagar,6,AM,9-11hrs
+116-Deepanjali Nagar,7,AM,9-11hrs
+116-Deepanjali Nagar,1,PM,17-19hrs
+116-Deepanjali Nagar,2,PM,18-20hrs
+116-Deepanjali Nagar,3,PM,18-20hrs
+116-Deepanjali Nagar,4,PM,19-21hrs
+116-Deepanjali Nagar,5,PM,18-20hrs
+116-Deepanjali Nagar,6,PM,17-19hrs
+116-Deepanjali Nagar,7,PM,19-21hrs
+117-Mysuru Road,1,AM,12-14hrs
+117-Mysuru Road,2,AM,9-11hrs
+117-Mysuru Road,3,AM,9-11hrs
+117-Mysuru Road,4,AM,9-11hrs
+117-Mysuru Road,5,AM,9-11hrs
+117-Mysuru Road,6,AM,9-11hrs
+117-Mysuru Road,7,AM,9-11hrs
+117-Mysuru Road,1,PM,15-17hrs
+117-Mysuru Road,2,PM,16-18hrs
+117-Mysuru Road,3,PM,16-18hrs
+117-Mysuru Road,4,PM,18-20hrs
+117-Mysuru Road,5,PM,16-18hrs
+117-Mysuru Road,6,PM,17-19hrs
+117-Mysuru Road,7,PM,18-20hrs
+118-Nayandahalli,1,AM,12-14hrs
+118-Nayandahalli,2,AM,9-11hrs
+118-Nayandahalli,3,AM,9-11hrs
+118-Nayandahalli,4,AM,9-11hrs
+118-Nayandahalli,5,AM,9-11hrs
+118-Nayandahalli,6,AM,9-11hrs
+118-Nayandahalli,7,AM,9-11hrs
+118-Nayandahalli,1,PM,18-20hrs
+118-Nayandahalli,2,PM,18-20hrs
+118-Nayandahalli,3,PM,18-20hrs
+118-Nayandahalli,4,PM,18-20hrs
+118-Nayandahalli,5,PM,19-21hrs
+118-Nayandahalli,6,PM,18-20hrs
+118-Nayandahalli,7,PM,19-21hrs
+119-Rajarajeshwari Nagar,1,AM,12-14hrs
+119-Rajarajeshwari Nagar,2,AM,9-11hrs
+119-Rajarajeshwari Nagar,3,AM,9-11hrs
+119-Rajarajeshwari Nagar,4,AM,9-11hrs
+119-Rajarajeshwari Nagar,5,AM,9-11hrs
+119-Rajarajeshwari Nagar,6,AM,9-11hrs
+119-Rajarajeshwari Nagar,7,AM,12-14hrs
+119-Rajarajeshwari Nagar,1,PM,16-18hrs
+119-Rajarajeshwari Nagar,2,PM,18-20hrs
+119-Rajarajeshwari Nagar,3,PM,17-19hrs
+119-Rajarajeshwari Nagar,4,PM,17-19hrs
+119-Rajarajeshwari Nagar,5,PM,17-19hrs
+119-Rajarajeshwari Nagar,6,PM,18-20hrs
+119-Rajarajeshwari Nagar,7,PM,17-19hrs
+12-SV Road,1,AM,12-14hrs
+12-SV Road,2,AM,9-11hrs
+12-SV Road,3,AM,9-11hrs
+12-SV Road,4,AM,9-11hrs
+12-SV Road,5,AM,9-11hrs
+12-SV Road,6,AM,9-11hrs
+12-SV Road,7,AM,12-14hrs
+12-SV Road,1,PM,16-18hrs
+12-SV Road,2,PM,17-19hrs
+12-SV Road,3,PM,18-20hrs
+12-SV Road,4,PM,18-20hrs
+12-SV Road,5,PM,17-19hrs
+12-SV Road,6,PM,17-19hrs
+12-SV Road,7,PM,16-18hrs
+120-Jnanabharathi,1,AM,12-14hrs
+120-Jnanabharathi,2,AM,9-11hrs
+120-Jnanabharathi,3,AM,9-11hrs
+120-Jnanabharathi,4,AM,9-11hrs
+120-Jnanabharathi,5,AM,9-11hrs
+120-Jnanabharathi,6,AM,9-11hrs
+120-Jnanabharathi,7,AM,10-12hrs
+120-Jnanabharathi,1,PM,16-18hrs
+120-Jnanabharathi,2,PM,16-18hrs
+120-Jnanabharathi,3,PM,17-19hrs
+120-Jnanabharathi,4,PM,15-17hrs
+120-Jnanabharathi,5,PM,17-19hrs
+120-Jnanabharathi,6,PM,15-17hrs
+120-Jnanabharathi,7,PM,15-17hrs
+121-Pattangere,1,AM,12-14hrs
+121-Pattangere,2,AM,9-11hrs
+121-Pattangere,3,AM,9-11hrs
+121-Pattangere,4,AM,8-10hrs
+121-Pattangere,5,AM,9-11hrs
+121-Pattangere,6,AM,11-13hrs
+121-Pattangere,7,AM,9-11hrs
+121-Pattangere,1,PM,15-17hrs
+121-Pattangere,2,PM,17-19hrs
+121-Pattangere,3,PM,17-19hrs
+121-Pattangere,4,PM,16-18hrs
+121-Pattangere,5,PM,17-19hrs
+121-Pattangere,6,PM,17-19hrs
+121-Pattangere,7,PM,17-19hrs
+122-Kengeri Bus Terminal,1,AM,12-14hrs
+122-Kengeri Bus Terminal,2,AM,8-10hrs
+122-Kengeri Bus Terminal,3,AM,8-10hrs
+122-Kengeri Bus Terminal,4,AM,9-11hrs
+122-Kengeri Bus Terminal,5,AM,9-11hrs
+122-Kengeri Bus Terminal,6,AM,9-11hrs
+122-Kengeri Bus Terminal,7,AM,10-12hrs
+122-Kengeri Bus Terminal,1,PM,17-19hrs
+122-Kengeri Bus Terminal,2,PM,18-20hrs
+122-Kengeri Bus Terminal,3,PM,16-18hrs
+122-Kengeri Bus Terminal,4,PM,17-19hrs
+122-Kengeri Bus Terminal,5,PM,18-20hrs
+122-Kengeri Bus Terminal,6,PM,18-20hrs
+122-Kengeri Bus Terminal,7,PM,17-19hrs
+123-Kengeri,1,AM,12-14hrs
+123-Kengeri,2,AM,8-10hrs
+123-Kengeri,3,AM,9-11hrs
+123-Kengeri,4,AM,9-11hrs
+123-Kengeri,5,AM,9-11hrs
+123-Kengeri,6,AM,12-14hrs
+123-Kengeri,7,AM,10-12hrs
+123-Kengeri,1,PM,20-22hrs
+123-Kengeri,2,PM,18-20hrs
+123-Kengeri,3,PM,18-20hrs
+123-Kengeri,4,PM,18-20hrs
+123-Kengeri,5,PM,18-20hrs
+123-Kengeri,6,PM,17-19hrs
+123-Kengeri,7,PM,18-20hrs
+124-Challaghatta,1,AM,12-14hrs
+124-Challaghatta,2,AM,9-11hrs
+124-Challaghatta,3,AM,9-11hrs
+124-Challaghatta,4,AM,9-11hrs
+124-Challaghatta,5,AM,9-11hrs
+124-Challaghatta,6,AM,12-14hrs
+124-Challaghatta,7,AM,12-14hrs
+124-Challaghatta,1,PM,18-20hrs
+124-Challaghatta,2,PM,17-19hrs
+124-Challaghatta,3,PM,17-19hrs
+124-Challaghatta,4,PM,17-19hrs
+124-Challaghatta,5,PM,17-19hrs
+124-Challaghatta,6,PM,17-19hrs
+124-Challaghatta,7,PM,17-19hrs
+125-Benniganahalli,1,AM,11-13hrs
+125-Benniganahalli,2,AM,9-11hrs
+125-Benniganahalli,3,AM,9-11hrs
+125-Benniganahalli,4,AM,9-11hrs
+125-Benniganahalli,5,AM,9-11hrs
+125-Benniganahalli,6,AM,9-11hrs
+125-Benniganahalli,7,AM,10-12hrs
+125-Benniganahalli,1,PM,15-17hrs
+125-Benniganahalli,2,PM,18-20hrs
+125-Benniganahalli,3,PM,18-20hrs
+125-Benniganahalli,4,PM,18-20hrs
+125-Benniganahalli,5,PM,18-20hrs
+125-Benniganahalli,6,PM,18-20hrs
+125-Benniganahalli,7,PM,18-20hrs
+126-Krishnarajapura,1,AM,11-13hrs
+126-Krishnarajapura,2,AM,9-11hrs
+126-Krishnarajapura,3,AM,9-11hrs
+126-Krishnarajapura,4,AM,9-11hrs
+126-Krishnarajapura,5,AM,9-11hrs
+126-Krishnarajapura,6,AM,9-11hrs
+126-Krishnarajapura,7,AM,12-14hrs
+126-Krishnarajapura,1,PM,17-19hrs
+126-Krishnarajapura,2,PM,17-19hrs
+126-Krishnarajapura,3,PM,17-19hrs
+126-Krishnarajapura,4,PM,18-20hrs
+126-Krishnarajapura,5,PM,18-20hrs
+126-Krishnarajapura,6,PM,18-20hrs
+126-Krishnarajapura,7,PM,16-18hrs
+127-Singayyanapalya,1,AM,12-14hrs
+127-Singayyanapalya,2,AM,9-11hrs
+127-Singayyanapalya,3,AM,9-11hrs
+127-Singayyanapalya,4,AM,9-11hrs
+127-Singayyanapalya,5,AM,9-11hrs
+127-Singayyanapalya,6,AM,9-11hrs
+127-Singayyanapalya,7,AM,12-14hrs
+127-Singayyanapalya,1,PM,18-20hrs
+127-Singayyanapalya,2,PM,18-20hrs
+127-Singayyanapalya,3,PM,18-20hrs
+127-Singayyanapalya,4,PM,18-20hrs
+127-Singayyanapalya,5,PM,18-20hrs
+127-Singayyanapalya,6,PM,18-20hrs
+127-Singayyanapalya,7,PM,18-20hrs
+128-Garudacharpalya,1,AM,12-14hrs
+128-Garudacharpalya,2,AM,9-11hrs
+128-Garudacharpalya,3,AM,9-11hrs
+128-Garudacharpalya,4,AM,9-11hrs
+128-Garudacharpalya,5,AM,9-11hrs
+128-Garudacharpalya,6,AM,9-11hrs
+128-Garudacharpalya,7,AM,12-14hrs
+128-Garudacharpalya,1,PM,17-19hrs
+128-Garudacharpalya,2,PM,18-20hrs
+128-Garudacharpalya,3,PM,18-20hrs
+128-Garudacharpalya,4,PM,18-20hrs
+128-Garudacharpalya,5,PM,18-20hrs
+128-Garudacharpalya,6,PM,18-20hrs
+128-Garudacharpalya,7,PM,18-20hrs
+129-Hoodi,1,AM,11-13hrs
+129-Hoodi,2,AM,9-11hrs
+129-Hoodi,3,AM,9-11hrs
+129-Hoodi,4,AM,9-11hrs
+129-Hoodi,5,AM,9-11hrs
+129-Hoodi,6,AM,9-11hrs
+129-Hoodi,7,AM,12-14hrs
+129-Hoodi,1,PM,17-19hrs
+129-Hoodi,2,PM,18-20hrs
+129-Hoodi,3,PM,18-20hrs
+129-Hoodi,4,PM,18-20hrs
+129-Hoodi,5,PM,18-20hrs
+129-Hoodi,6,PM,18-20hrs
+129-Hoodi,7,PM,18-20hrs
+13-Indiranagar,1,AM,12-14hrs
+13-Indiranagar,2,AM,9-11hrs
+13-Indiranagar,3,AM,9-11hrs
+13-Indiranagar,4,AM,9-11hrs
+13-Indiranagar,5,AM,9-11hrs
+13-Indiranagar,6,AM,9-11hrs
+13-Indiranagar,7,AM,12-14hrs
+13-Indiranagar,1,PM,16-18hrs
+13-Indiranagar,2,PM,18-20hrs
+13-Indiranagar,3,PM,18-20hrs
+13-Indiranagar,4,PM,18-20hrs
+13-Indiranagar,5,PM,18-20hrs
+13-Indiranagar,6,PM,18-20hrs
+13-Indiranagar,7,PM,17-19hrs
+130-Seetharampalya,1,AM,12-14hrs
+130-Seetharampalya,2,AM,9-11hrs
+130-Seetharampalya,3,AM,9-11hrs
+130-Seetharampalya,4,AM,9-11hrs
+130-Seetharampalya,5,AM,9-11hrs
+130-Seetharampalya,6,AM,9-11hrs
+130-Seetharampalya,7,AM,12-14hrs
+130-Seetharampalya,1,PM,16-18hrs
+130-Seetharampalya,2,PM,17-19hrs
+130-Seetharampalya,3,PM,18-20hrs
+130-Seetharampalya,4,PM,17-19hrs
+130-Seetharampalya,5,PM,18-20hrs
+130-Seetharampalya,6,PM,17-19hrs
+130-Seetharampalya,7,PM,17-19hrs
+131-Kundalahalli,1,AM,12-14hrs
+131-Kundalahalli,2,AM,9-11hrs
+131-Kundalahalli,3,AM,9-11hrs
+131-Kundalahalli,4,AM,9-11hrs
+131-Kundalahalli,5,AM,12-14hrs
+131-Kundalahalli,6,AM,12-14hrs
+131-Kundalahalli,7,AM,12-14hrs
+131-Kundalahalli,1,PM,17-19hrs
+131-Kundalahalli,2,PM,17-19hrs
+131-Kundalahalli,3,PM,17-19hrs
+131-Kundalahalli,4,PM,17-19hrs
+131-Kundalahalli,5,PM,17-19hrs
+131-Kundalahalli,6,PM,17-19hrs
+131-Kundalahalli,7,PM,17-19hrs
+132-Nallur Halli,1,AM,12-14hrs
+132-Nallur Halli,2,AM,9-11hrs
+132-Nallur Halli,3,AM,9-11hrs
+132-Nallur Halli,4,AM,9-11hrs
+132-Nallur Halli,5,AM,9-11hrs
+132-Nallur Halli,6,AM,12-14hrs
+132-Nallur Halli,7,AM,12-14hrs
+132-Nallur Halli,1,PM,15-17hrs
+132-Nallur Halli,2,PM,17-19hrs
+132-Nallur Halli,3,PM,18-20hrs
+132-Nallur Halli,4,PM,17-19hrs
+132-Nallur Halli,5,PM,17-19hrs
+132-Nallur Halli,6,PM,17-19hrs
+132-Nallur Halli,7,PM,17-19hrs
+133-Sri Sathya Sai Hospital,1,AM,10-12hrs
+133-Sri Sathya Sai Hospital,2,AM,12-14hrs
+133-Sri Sathya Sai Hospital,3,AM,12-14hrs
+133-Sri Sathya Sai Hospital,4,AM,12-14hrs
+133-Sri Sathya Sai Hospital,5,AM,12-14hrs
+133-Sri Sathya Sai Hospital,6,AM,12-14hrs
+133-Sri Sathya Sai Hospital,7,AM,12-14hrs
+133-Sri Sathya Sai Hospital,1,PM,17-19hrs
+133-Sri Sathya Sai Hospital,2,PM,18-20hrs
+133-Sri Sathya Sai Hospital,3,PM,17-19hrs
+133-Sri Sathya Sai Hospital,4,PM,18-20hrs
+133-Sri Sathya Sai Hospital,5,PM,17-19hrs
+133-Sri Sathya Sai Hospital,6,PM,17-19hrs
+133-Sri Sathya Sai Hospital,7,PM,17-19hrs
+134-Pattandur Agrahara,1,AM,12-14hrs
+134-Pattandur Agrahara,2,AM,12-14hrs
+134-Pattandur Agrahara,3,AM,12-14hrs
+134-Pattandur Agrahara,4,AM,12-14hrs
+134-Pattandur Agrahara,5,AM,12-14hrs
+134-Pattandur Agrahara,6,AM,12-14hrs
+134-Pattandur Agrahara,7,AM,12-14hrs
+134-Pattandur Agrahara,1,PM,18-20hrs
+134-Pattandur Agrahara,2,PM,18-20hrs
+134-Pattandur Agrahara,3,PM,18-20hrs
+134-Pattandur Agrahara,4,PM,18-20hrs
+134-Pattandur Agrahara,5,PM,18-20hrs
+134-Pattandur Agrahara,6,PM,18-20hrs
+134-Pattandur Agrahara,7,PM,18-20hrs
+135-Kadugodi Tree Park,1,AM,12-14hrs
+135-Kadugodi Tree Park,2,AM,9-11hrs
+135-Kadugodi Tree Park,3,AM,9-11hrs
+135-Kadugodi Tree Park,4,AM,9-11hrs
+135-Kadugodi Tree Park,5,AM,9-11hrs
+135-Kadugodi Tree Park,6,AM,9-11hrs
+135-Kadugodi Tree Park,7,AM,10-12hrs
+135-Kadugodi Tree Park,1,PM,16-18hrs
+135-Kadugodi Tree Park,2,PM,18-20hrs
+135-Kadugodi Tree Park,3,PM,18-20hrs
+135-Kadugodi Tree Park,4,PM,18-20hrs
+135-Kadugodi Tree Park,5,PM,19-21hrs
+135-Kadugodi Tree Park,6,PM,15-17hrs
+135-Kadugodi Tree Park,7,PM,18-20hrs
+136-Hopefarm Channasandra,1,AM,12-14hrs
+136-Hopefarm Channasandra,2,AM,9-11hrs
+136-Hopefarm Channasandra,3,AM,9-11hrs
+136-Hopefarm Channasandra,4,AM,9-11hrs
+136-Hopefarm Channasandra,5,AM,9-11hrs
+136-Hopefarm Channasandra,6,AM,9-11hrs
+136-Hopefarm Channasandra,7,AM,12-14hrs
+136-Hopefarm Channasandra,1,PM,15-17hrs
+136-Hopefarm Channasandra,2,PM,18-20hrs
+136-Hopefarm Channasandra,3,PM,18-20hrs
+136-Hopefarm Channasandra,4,PM,18-20hrs
+136-Hopefarm Channasandra,5,PM,18-20hrs
+136-Hopefarm Channasandra,6,PM,18-20hrs
+136-Hopefarm Channasandra,7,PM,16-18hrs
+137-Whitefield (Kadugodi),1,AM,12-14hrs
+137-Whitefield (Kadugodi),2,AM,9-11hrs
+137-Whitefield (Kadugodi),3,AM,9-11hrs
+137-Whitefield (Kadugodi),4,AM,9-11hrs
+137-Whitefield (Kadugodi),5,AM,9-11hrs
+137-Whitefield (Kadugodi),6,AM,9-11hrs
+137-Whitefield (Kadugodi),7,AM,9-11hrs
+137-Whitefield (Kadugodi),1,PM,15-17hrs
+137-Whitefield (Kadugodi),2,PM,18-20hrs
+137-Whitefield (Kadugodi),3,PM,18-20hrs
+137-Whitefield (Kadugodi),4,PM,18-20hrs
+137-Whitefield (Kadugodi),5,PM,18-20hrs
+137-Whitefield (Kadugodi),6,PM,18-20hrs
+137-Whitefield (Kadugodi),7,PM,15-17hrs
+14-Halasuru,1,AM,11-13hrs
+14-Halasuru,2,AM,9-11hrs
+14-Halasuru,3,AM,9-11hrs
+14-Halasuru,4,AM,9-11hrs
+14-Halasuru,5,AM,9-11hrs
+14-Halasuru,6,AM,9-11hrs
+14-Halasuru,7,AM,9-11hrs
+14-Halasuru,1,PM,17-19hrs
+14-Halasuru,2,PM,18-20hrs
+14-Halasuru,3,PM,18-20hrs
+14-Halasuru,4,PM,18-20hrs
+14-Halasuru,5,PM,18-20hrs
+14-Halasuru,6,PM,18-20hrs
+14-Halasuru,7,PM,15-17hrs
+15-Trinity,1,AM,12-14hrs
+15-Trinity,2,AM,12-14hrs
+15-Trinity,3,AM,12-14hrs
+15-Trinity,4,AM,12-14hrs
+15-Trinity,5,AM,12-14hrs
+15-Trinity,6,AM,12-14hrs
+15-Trinity,7,AM,12-14hrs
+15-Trinity,1,PM,17-19hrs
+15-Trinity,2,PM,18-20hrs
+15-Trinity,3,PM,18-20hrs
+15-Trinity,4,PM,18-20hrs
+15-Trinity,5,PM,18-20hrs
+15-Trinity,6,PM,18-20hrs
+15-Trinity,7,PM,18-20hrs
+16-MG Road,1,AM,12-14hrs
+16-MG Road,2,AM,12-14hrs
+16-MG Road,3,AM,12-14hrs
+16-MG Road,4,AM,12-14hrs
+16-MG Road,5,AM,12-14hrs
+16-MG Road,6,AM,12-14hrs
+16-MG Road,7,AM,12-14hrs
+16-MG Road,1,PM,19-21hrs
+16-MG Road,2,PM,18-20hrs
+16-MG Road,3,PM,18-20hrs
+16-MG Road,4,PM,18-20hrs
+16-MG Road,5,PM,18-20hrs
+16-MG Road,6,PM,18-20hrs
+16-MG Road,7,PM,19-21hrs
+17-Cubbon Park,1,AM,12-14hrs
+17-Cubbon Park,2,AM,12-14hrs
+17-Cubbon Park,3,AM,12-14hrs
+17-Cubbon Park,4,AM,12-14hrs
+17-Cubbon Park,5,AM,12-14hrs
+17-Cubbon Park,6,AM,12-14hrs
+17-Cubbon Park,7,AM,12-14hrs
+17-Cubbon Park,1,PM,17-19hrs
+17-Cubbon Park,2,PM,18-20hrs
+17-Cubbon Park,3,PM,18-20hrs
+17-Cubbon Park,4,PM,18-20hrs
+17-Cubbon Park,5,PM,18-20hrs
+17-Cubbon Park,6,PM,18-20hrs
+17-Cubbon Park,7,PM,17-19hrs
+18-Vidhana Soudha,1,AM,12-14hrs
+18-Vidhana Soudha,2,AM,12-14hrs
+18-Vidhana Soudha,3,AM,12-14hrs
+18-Vidhana Soudha,4,AM,12-14hrs
+18-Vidhana Soudha,5,AM,12-14hrs
+18-Vidhana Soudha,6,AM,12-14hrs
+18-Vidhana Soudha,7,AM,12-14hrs
+18-Vidhana Soudha,1,PM,17-19hrs
+18-Vidhana Soudha,2,PM,18-20hrs
+18-Vidhana Soudha,3,PM,18-20hrs
+18-Vidhana Soudha,4,PM,18-20hrs
+18-Vidhana Soudha,5,PM,18-20hrs
+18-Vidhana Soudha,6,PM,18-20hrs
+18-Vidhana Soudha,7,PM,17-19hrs
+19-Sir.M. Visveshwaraya,1,AM,12-14hrs
+19-Sir.M. Visveshwaraya,2,AM,12-14hrs
+19-Sir.M. Visveshwaraya,3,AM,12-14hrs
+19-Sir.M. Visveshwaraya,4,AM,12-14hrs
+19-Sir.M. Visveshwaraya,5,AM,12-14hrs
+19-Sir.M. Visveshwaraya,6,AM,12-14hrs
+19-Sir.M. Visveshwaraya,7,AM,12-14hrs
+19-Sir.M. Visveshwaraya,1,PM,16-18hrs
+19-Sir.M. Visveshwaraya,2,PM,17-19hrs
+19-Sir.M. Visveshwaraya,3,PM,17-19hrs
+19-Sir.M. Visveshwaraya,4,PM,18-20hrs
+19-Sir.M. Visveshwaraya,5,PM,17-19hrs
+19-Sir.M. Visveshwaraya,6,PM,17-19hrs
+19-Sir.M. Visveshwaraya,7,PM,18-20hrs
+21-Nagasandra,1,AM,12-14hrs
+21-Nagasandra,2,AM,9-11hrs
+21-Nagasandra,3,AM,9-11hrs
+21-Nagasandra,4,AM,9-11hrs
+21-Nagasandra,5,AM,9-11hrs
+21-Nagasandra,6,AM,9-11hrs
+21-Nagasandra,7,AM,9-11hrs
+21-Nagasandra,1,PM,17-19hrs
+21-Nagasandra,2,PM,17-19hrs
+21-Nagasandra,3,PM,17-19hrs
+21-Nagasandra,4,PM,18-20hrs
+21-Nagasandra,5,PM,18-20hrs
+21-Nagasandra,6,PM,17-19hrs
+21-Nagasandra,7,PM,18-20hrs
+210-Rajajinagar,1,AM,12-14hrs
+210-Rajajinagar,2,AM,9-11hrs
+210-Rajajinagar,3,AM,9-11hrs
+210-Rajajinagar,4,AM,9-11hrs
+210-Rajajinagar,5,AM,9-11hrs
+210-Rajajinagar,6,AM,9-11hrs
+210-Rajajinagar,7,AM,10-12hrs
+210-Rajajinagar,1,PM,16-18hrs
+210-Rajajinagar,2,PM,18-20hrs
+210-Rajajinagar,3,PM,18-20hrs
+210-Rajajinagar,4,PM,18-20hrs
+210-Rajajinagar,5,PM,18-20hrs
+210-Rajajinagar,6,PM,18-20hrs
+210-Rajajinagar,7,PM,17-19hrs
+211-Kuvempu Road,1,AM,11-13hrs
+211-Kuvempu Road,2,AM,9-11hrs
+211-Kuvempu Road,3,AM,9-11hrs
+211-Kuvempu Road,4,AM,9-11hrs
+211-Kuvempu Road,5,AM,9-11hrs
+211-Kuvempu Road,6,AM,9-11hrs
+211-Kuvempu Road,7,AM,9-11hrs
+211-Kuvempu Road,1,PM,15-17hrs
+211-Kuvempu Road,2,PM,18-20hrs
+211-Kuvempu Road,3,PM,18-20hrs
+211-Kuvempu Road,4,PM,18-20hrs
+211-Kuvempu Road,5,PM,18-20hrs
+211-Kuvempu Road,6,PM,18-20hrs
+211-Kuvempu Road,7,PM,18-20hrs
+212-Srirampura,1,AM,12-14hrs
+212-Srirampura,2,AM,9-11hrs
+212-Srirampura,3,AM,9-11hrs
+212-Srirampura,4,AM,9-11hrs
+212-Srirampura,5,AM,9-11hrs
+212-Srirampura,6,AM,9-11hrs
+212-Srirampura,7,AM,9-11hrs
+212-Srirampura,1,PM,16-18hrs
+212-Srirampura,2,PM,18-20hrs
+212-Srirampura,3,PM,18-20hrs
+212-Srirampura,4,PM,18-20hrs
+212-Srirampura,5,PM,18-20hrs
+212-Srirampura,6,PM,18-20hrs
+212-Srirampura,7,PM,18-20hrs
+213-Mantri Square Sampige Road,1,AM,12-14hrs
+213-Mantri Square Sampige Road,2,AM,9-11hrs
+213-Mantri Square Sampige Road,3,AM,9-11hrs
+213-Mantri Square Sampige Road,4,AM,9-11hrs
+213-Mantri Square Sampige Road,5,AM,9-11hrs
+213-Mantri Square Sampige Road,6,AM,9-11hrs
+213-Mantri Square Sampige Road,7,AM,12-14hrs
+213-Mantri Square Sampige Road,1,PM,18-20hrs
+213-Mantri Square Sampige Road,2,PM,18-20hrs
+213-Mantri Square Sampige Road,3,PM,18-20hrs
+213-Mantri Square Sampige Road,4,PM,18-20hrs
+213-Mantri Square Sampige Road,5,PM,18-20hrs
+213-Mantri Square Sampige Road,6,PM,18-20hrs
+213-Mantri Square Sampige Road,7,PM,18-20hrs
+215-Chickpete,1,AM,12-14hrs
+215-Chickpete,2,AM,12-14hrs
+215-Chickpete,3,AM,12-14hrs
+215-Chickpete,4,AM,12-14hrs
+215-Chickpete,5,AM,12-14hrs
+215-Chickpete,6,AM,12-14hrs
+215-Chickpete,7,AM,12-14hrs
+215-Chickpete,1,PM,16-18hrs
+215-Chickpete,2,PM,16-18hrs
+215-Chickpete,3,PM,17-19hrs
+215-Chickpete,4,PM,19-21hrs
+215-Chickpete,5,PM,19-21hrs
+215-Chickpete,6,PM,18-20hrs
+215-Chickpete,7,PM,17-19hrs
+216-KR Market,1,AM,12-14hrs
+216-KR Market,2,AM,12-14hrs
+216-KR Market,3,AM,12-14hrs
+216-KR Market,4,AM,12-14hrs
+216-KR Market,5,AM,12-14hrs
+216-KR Market,6,AM,12-14hrs
+216-KR Market,7,AM,12-14hrs
+216-KR Market,1,PM,16-18hrs
+216-KR Market,2,PM,17-19hrs
+216-KR Market,3,PM,17-19hrs
+216-KR Market,4,PM,17-19hrs
+216-KR Market,5,PM,17-19hrs
+216-KR Market,6,PM,17-19hrs
+216-KR Market,7,PM,17-19hrs
+217-National College,1,AM,12-14hrs
+217-National College,2,AM,9-11hrs
+217-National College,3,AM,9-11hrs
+217-National College,4,AM,9-11hrs
+217-National College,5,AM,9-11hrs
+217-National College,6,AM,9-11hrs
+217-National College,7,AM,12-14hrs
+217-National College,1,PM,16-18hrs
+217-National College,2,PM,17-19hrs
+217-National College,3,PM,17-19hrs
+217-National College,4,PM,17-19hrs
+217-National College,5,PM,18-20hrs
+217-National College,6,PM,18-20hrs
+217-National College,7,PM,18-20hrs
+218-Lalbagh,1,AM,12-14hrs
+218-Lalbagh,2,AM,9-11hrs
+218-Lalbagh,3,AM,9-11hrs
+218-Lalbagh,4,AM,9-11hrs
+218-Lalbagh,5,AM,12-14hrs
+218-Lalbagh,6,AM,12-14hrs
+218-Lalbagh,7,AM,12-14hrs
+218-Lalbagh,1,PM,16-18hrs
+218-Lalbagh,2,PM,18-20hrs
+218-Lalbagh,3,PM,18-20hrs
+218-Lalbagh,4,PM,18-20hrs
+218-Lalbagh,5,PM,18-20hrs
+218-Lalbagh,6,PM,18-20hrs
+218-Lalbagh,7,PM,16-18hrs
+219-South End Circle,1,AM,12-14hrs
+219-South End Circle,2,AM,12-14hrs
+219-South End Circle,3,AM,12-14hrs
+219-South End Circle,4,AM,9-11hrs
+219-South End Circle,5,AM,12-14hrs
+219-South End Circle,6,AM,12-14hrs
+219-South End Circle,7,AM,12-14hrs
+219-South End Circle,1,PM,18-20hrs
+219-South End Circle,2,PM,18-20hrs
+219-South End Circle,3,PM,18-20hrs
+219-South End Circle,4,PM,18-20hrs
+219-South End Circle,5,PM,18-20hrs
+219-South End Circle,6,PM,18-20hrs
+219-South End Circle,7,PM,18-20hrs
+22-Dasarahalli,1,AM,11-13hrs
+22-Dasarahalli,2,AM,9-11hrs
+22-Dasarahalli,3,AM,9-11hrs
+22-Dasarahalli,4,AM,9-11hrs
+22-Dasarahalli,5,AM,9-11hrs
+22-Dasarahalli,6,AM,9-11hrs
+22-Dasarahalli,7,AM,9-11hrs
+22-Dasarahalli,1,PM,15-17hrs
+22-Dasarahalli,2,PM,18-20hrs
+22-Dasarahalli,3,PM,17-19hrs
+22-Dasarahalli,4,PM,18-20hrs
+22-Dasarahalli,5,PM,19-21hrs
+22-Dasarahalli,6,PM,18-20hrs
+22-Dasarahalli,7,PM,18-20hrs
+220-Jayanagar,1,AM,12-14hrs
+220-Jayanagar,2,AM,9-11hrs
+220-Jayanagar,3,AM,9-11hrs
+220-Jayanagar,4,AM,9-11hrs
+220-Jayanagar,5,AM,9-11hrs
+220-Jayanagar,6,AM,12-14hrs
+220-Jayanagar,7,AM,12-14hrs
+220-Jayanagar,1,PM,17-19hrs
+220-Jayanagar,2,PM,17-19hrs
+220-Jayanagar,3,PM,18-20hrs
+220-Jayanagar,4,PM,17-19hrs
+220-Jayanagar,5,PM,17-19hrs
+220-Jayanagar,6,PM,18-20hrs
+220-Jayanagar,7,PM,17-19hrs
+221-RV Road,1,AM,12-14hrs
+221-RV Road,2,AM,9-11hrs
+221-RV Road,3,AM,9-11hrs
+221-RV Road,4,AM,9-11hrs
+221-RV Road,5,AM,9-11hrs
+221-RV Road,6,AM,9-11hrs
+221-RV Road,7,AM,12-14hrs
+221-RV Road,1,PM,16-18hrs
+221-RV Road,2,PM,18-20hrs
+221-RV Road,3,PM,18-20hrs
+221-RV Road,4,PM,18-20hrs
+221-RV Road,5,PM,18-20hrs
+221-RV Road,6,PM,18-20hrs
+221-RV Road,7,PM,17-19hrs
+222-Banashankarl,1,AM,12-14hrs
+222-Banashankarl,2,AM,9-11hrs
+222-Banashankarl,3,AM,9-11hrs
+222-Banashankarl,4,AM,9-11hrs
+222-Banashankarl,5,AM,9-11hrs
+222-Banashankarl,6,AM,9-11hrs
+222-Banashankarl,7,AM,12-14hrs
+222-Banashankarl,1,PM,17-19hrs
+222-Banashankarl,2,PM,18-20hrs
+222-Banashankarl,3,PM,18-20hrs
+222-Banashankarl,4,PM,18-20hrs
+222-Banashankarl,5,PM,18-20hrs
+222-Banashankarl,6,PM,18-20hrs
+222-Banashankarl,7,PM,17-19hrs
+223-JP Nagar,1,AM,12-14hrs
+223-JP Nagar,2,AM,9-11hrs
+223-JP Nagar,3,AM,9-11hrs
+223-JP Nagar,4,AM,9-11hrs
+223-JP Nagar,5,AM,9-11hrs
+223-JP Nagar,6,AM,9-11hrs
+223-JP Nagar,7,AM,10-12hrs
+223-JP Nagar,1,PM,17-19hrs
+223-JP Nagar,2,PM,18-20hrs
+223-JP Nagar,3,PM,18-20hrs
+223-JP Nagar,4,PM,18-20hrs
+223-JP Nagar,5,PM,18-20hrs
+223-JP Nagar,6,PM,18-20hrs
+223-JP Nagar,7,PM,18-20hrs
+224-Puttenahalli,1,AM,12-14hrs
+224-Puttenahalli,2,AM,9-11hrs
+224-Puttenahalli,3,AM,9-11hrs
+224-Puttenahalli,4,AM,9-11hrs
+224-Puttenahalli,5,AM,9-11hrs
+224-Puttenahalli,6,AM,9-11hrs
+224-Puttenahalli,7,AM,9-11hrs
+224-Puttenahalli,1,PM,15-17hrs
+224-Puttenahalli,2,PM,17-19hrs
+224-Puttenahalli,3,PM,17-19hrs
+224-Puttenahalli,4,PM,17-19hrs
+224-Puttenahalli,5,PM,18-20hrs
+224-Puttenahalli,6,PM,18-20hrs
+224-Puttenahalli,7,PM,17-19hrs
+225-Konanakunte Cross,1,AM,12-14hrs
+225-Konanakunte Cross,2,AM,9-11hrs
+225-Konanakunte Cross,3,AM,9-11hrs
+225-Konanakunte Cross,4,AM,9-11hrs
+225-Konanakunte Cross,5,AM,9-11hrs
+225-Konanakunte Cross,6,AM,9-11hrs
+225-Konanakunte Cross,7,AM,12-14hrs
+225-Konanakunte Cross,1,PM,17-19hrs
+225-Konanakunte Cross,2,PM,17-19hrs
+225-Konanakunte Cross,3,PM,18-20hrs
+225-Konanakunte Cross,4,PM,18-20hrs
+225-Konanakunte Cross,5,PM,19-21hrs
+225-Konanakunte Cross,6,PM,18-20hrs
+225-Konanakunte Cross,7,PM,18-20hrs
+226-Doddakallasandra,1,AM,12-14hrs
+226-Doddakallasandra,2,AM,8-10hrs
+226-Doddakallasandra,3,AM,9-11hrs
+226-Doddakallasandra,4,AM,9-11hrs
+226-Doddakallasandra,5,AM,8-10hrs
+226-Doddakallasandra,6,AM,9-11hrs
+226-Doddakallasandra,7,AM,12-14hrs
+226-Doddakallasandra,1,PM,16-18hrs
+226-Doddakallasandra,2,PM,18-20hrs
+226-Doddakallasandra,3,PM,18-20hrs
+226-Doddakallasandra,4,PM,18-20hrs
+226-Doddakallasandra,5,PM,18-20hrs
+226-Doddakallasandra,6,PM,18-20hrs
+226-Doddakallasandra,7,PM,18-20hrs
+227-Vajarahalli,1,AM,11-13hrs
+227-Vajarahalli,2,AM,8-10hrs
+227-Vajarahalli,3,AM,8-10hrs
+227-Vajarahalli,4,AM,8-10hrs
+227-Vajarahalli,5,AM,8-10hrs
+227-Vajarahalli,6,AM,8-10hrs
+227-Vajarahalli,7,AM,10-12hrs
+227-Vajarahalli,1,PM,17-19hrs
+227-Vajarahalli,2,PM,16-18hrs
+227-Vajarahalli,3,PM,17-19hrs
+227-Vajarahalli,4,PM,18-20hrs
+227-Vajarahalli,5,PM,17-19hrs
+227-Vajarahalli,6,PM,18-20hrs
+227-Vajarahalli,7,PM,16-18hrs
+228-Thalghattapura,1,AM,12-14hrs
+228-Thalghattapura,2,AM,9-11hrs
+228-Thalghattapura,3,AM,9-11hrs
+228-Thalghattapura,4,AM,9-11hrs
+228-Thalghattapura,5,AM,9-11hrs
+228-Thalghattapura,6,AM,9-11hrs
+228-Thalghattapura,7,AM,9-11hrs
+228-Thalghattapura,1,PM,16-18hrs
+228-Thalghattapura,2,PM,16-18hrs
+228-Thalghattapura,3,PM,18-20hrs
+228-Thalghattapura,4,PM,17-19hrs
+228-Thalghattapura,5,PM,17-19hrs
+228-Thalghattapura,6,PM,15-17hrs
+228-Thalghattapura,7,PM,18-20hrs
+229-Silk Institute,1,AM,11-13hrs
+229-Silk Institute,2,AM,9-11hrs
+229-Silk Institute,3,AM,9-11hrs
+229-Silk Institute,4,AM,9-11hrs
+229-Silk Institute,5,AM,9-11hrs
+229-Silk Institute,6,AM,9-11hrs
+229-Silk Institute,7,AM,10-12hrs
+229-Silk Institute,1,PM,17-19hrs
+229-Silk Institute,2,PM,17-19hrs
+229-Silk Institute,3,PM,17-19hrs
+229-Silk Institute,4,PM,17-19hrs
+229-Silk Institute,5,PM,17-19hrs
+229-Silk Institute,6,PM,17-19hrs
+229-Silk Institute,7,PM,17-19hrs
+23-Jalahalli,1,AM,12-14hrs
+23-Jalahalli,2,AM,9-11hrs
+23-Jalahalli,3,AM,9-11hrs
+23-Jalahalli,4,AM,9-11hrs
+23-Jalahalli,5,AM,9-11hrs
+23-Jalahalli,6,AM,9-11hrs
+23-Jalahalli,7,AM,12-14hrs
+23-Jalahalli,1,PM,16-18hrs
+23-Jalahalli,2,PM,18-20hrs
+23-Jalahalli,3,PM,18-20hrs
+23-Jalahalli,4,PM,18-20hrs
+23-Jalahalli,5,PM,18-20hrs
+23-Jalahalli,6,PM,18-20hrs
+23-Jalahalli,7,PM,18-20hrs
+230-Manjunatha Nagar,1,AM,11-13hrs
+230-Manjunatha Nagar,2,AM,9-11hrs
+230-Manjunatha Nagar,3,AM,8-10hrs
+230-Manjunatha Nagar,4,AM,8-10hrs
+230-Manjunatha Nagar,5,AM,8-10hrs
+230-Manjunatha Nagar,6,AM,9-11hrs
+230-Manjunatha Nagar,7,AM,9-11hrs
+230-Manjunatha Nagar,1,PM,17-19hrs
+230-Manjunatha Nagar,2,PM,18-20hrs
+230-Manjunatha Nagar,3,PM,18-20hrs
+230-Manjunatha Nagar,4,PM,18-20hrs
+230-Manjunatha Nagar,5,PM,19-21hrs
+230-Manjunatha Nagar,6,PM,18-20hrs
+230-Manjunatha Nagar,7,PM,18-20hrs
+231-Chikkabidarakallu,1,AM,12-14hrs
+231-Chikkabidarakallu,2,AM,9-11hrs
+231-Chikkabidarakallu,3,AM,8-10hrs
+231-Chikkabidarakallu,4,AM,9-11hrs
+231-Chikkabidarakallu,5,AM,9-11hrs
+231-Chikkabidarakallu,6,AM,9-11hrs
+231-Chikkabidarakallu,7,AM,9-11hrs
+231-Chikkabidarakallu,1,PM,15-17hrs
+231-Chikkabidarakallu,2,PM,17-19hrs
+231-Chikkabidarakallu,3,PM,17-19hrs
+231-Chikkabidarakallu,4,PM,17-19hrs
+231-Chikkabidarakallu,5,PM,18-20hrs
+231-Chikkabidarakallu,6,PM,18-20hrs
+231-Chikkabidarakallu,7,PM,17-19hrs
+232-Madavara,1,AM,11-13hrs
+232-Madavara,2,AM,9-11hrs
+232-Madavara,3,AM,9-11hrs
+232-Madavara,4,AM,9-11hrs
+232-Madavara,5,AM,9-11hrs
+232-Madavara,6,AM,9-11hrs
+232-Madavara,7,AM,10-12hrs
+232-Madavara,1,PM,21-23hrs
+232-Madavara,2,PM,18-20hrs
+232-Madavara,3,PM,18-20hrs
+232-Madavara,4,PM,18-20hrs
+232-Madavara,5,PM,18-20hrs
+232-Madavara,6,PM,17-19hrs
+232-Madavara,7,PM,17-19hrs
+24-Peenya Industry,1,AM,12-14hrs
+24-Peenya Industry,2,AM,9-11hrs
+24-Peenya Industry,3,AM,9-11hrs
+24-Peenya Industry,4,AM,9-11hrs
+24-Peenya Industry,5,AM,9-11hrs
+24-Peenya Industry,6,AM,9-11hrs
+24-Peenya Industry,7,AM,10-12hrs
+24-Peenya Industry,1,PM,17-19hrs
+24-Peenya Industry,2,PM,18-20hrs
+24-Peenya Industry,3,PM,18-20hrs
+24-Peenya Industry,4,PM,18-20hrs
+24-Peenya Industry,5,PM,18-20hrs
+24-Peenya Industry,6,PM,17-19hrs
+24-Peenya Industry,7,PM,17-19hrs
+25-Peenya,1,AM,12-14hrs
+25-Peenya,2,AM,9-11hrs
+25-Peenya,3,AM,9-11hrs
+25-Peenya,4,AM,9-11hrs
+25-Peenya,5,AM,9-11hrs
+25-Peenya,6,AM,9-11hrs
+25-Peenya,7,AM,10-12hrs
+25-Peenya,1,PM,17-19hrs
+25-Peenya,2,PM,18-20hrs
+25-Peenya,3,PM,18-20hrs
+25-Peenya,4,PM,18-20hrs
+25-Peenya,5,PM,18-20hrs
+25-Peenya,6,PM,18-20hrs
+25-Peenya,7,PM,17-19hrs
+26-Yeshwanthpur Industry,1,AM,12-14hrs
+26-Yeshwanthpur Industry,2,AM,9-11hrs
+26-Yeshwanthpur Industry,3,AM,9-11hrs
+26-Yeshwanthpur Industry,4,AM,9-11hrs
+26-Yeshwanthpur Industry,5,AM,9-11hrs
+26-Yeshwanthpur Industry,6,AM,9-11hrs
+26-Yeshwanthpur Industry,7,AM,12-14hrs
+26-Yeshwanthpur Industry,1,PM,18-20hrs
+26-Yeshwanthpur Industry,2,PM,18-20hrs
+26-Yeshwanthpur Industry,3,PM,18-20hrs
+26-Yeshwanthpur Industry,4,PM,18-20hrs
+26-Yeshwanthpur Industry,5,PM,18-20hrs
+26-Yeshwanthpur Industry,6,PM,18-20hrs
+26-Yeshwanthpur Industry,7,PM,18-20hrs
+27-Yeshwanthpur,1,AM,8-10hrs
+27-Yeshwanthpur,2,AM,8-10hrs
+27-Yeshwanthpur,3,AM,8-10hrs
+27-Yeshwanthpur,4,AM,8-10hrs
+27-Yeshwanthpur,5,AM,9-11hrs
+27-Yeshwanthpur,6,AM,8-10hrs
+27-Yeshwanthpur,7,AM,8-10hrs
+27-Yeshwanthpur,1,PM,20-22hrs
+27-Yeshwanthpur,2,PM,19-21hrs
+27-Yeshwanthpur,3,PM,19-21hrs
+27-Yeshwanthpur,4,PM,19-21hrs
+27-Yeshwanthpur,5,PM,19-21hrs
+27-Yeshwanthpur,6,PM,19-21hrs
+27-Yeshwanthpur,7,PM,20-22hrs
+28-Sandal Soap Factory,1,AM,12-14hrs
+28-Sandal Soap Factory,2,AM,9-11hrs
+28-Sandal Soap Factory,3,AM,9-11hrs
+28-Sandal Soap Factory,4,AM,9-11hrs
+28-Sandal Soap Factory,5,AM,9-11hrs
+28-Sandal Soap Factory,6,AM,12-14hrs
+28-Sandal Soap Factory,7,AM,12-14hrs
+28-Sandal Soap Factory,1,PM,16-18hrs
+28-Sandal Soap Factory,2,PM,18-20hrs
+28-Sandal Soap Factory,3,PM,18-20hrs
+28-Sandal Soap Factory,4,PM,18-20hrs
+28-Sandal Soap Factory,5,PM,18-20hrs
+28-Sandal Soap Factory,6,PM,18-20hrs
+28-Sandal Soap Factory,7,PM,18-20hrs
+29-Mahalakshmi,1,AM,12-14hrs
+29-Mahalakshmi,2,AM,9-11hrs
+29-Mahalakshmi,3,AM,9-11hrs
+29-Mahalakshmi,4,AM,9-11hrs
+29-Mahalakshmi,5,AM,9-11hrs
+29-Mahalakshmi,6,AM,9-11hrs
+29-Mahalakshmi,7,AM,12-14hrs
+29-Mahalakshmi,1,PM,15-17hrs
+29-Mahalakshmi,2,PM,18-20hrs
+29-Mahalakshmi,3,PM,18-20hrs
+29-Mahalakshmi,4,PM,18-20hrs
+29-Mahalakshmi,5,PM,18-20hrs
+29-Mahalakshmi,6,PM,18-20hrs
+29-Mahalakshmi,7,PM,19-21hrs
+31-Ragigudda,1,AM,9-11hrs
+31-Ragigudda,2,AM,12-14hrs
+31-Ragigudda,3,AM,12-14hrs
+31-Ragigudda,4,AM,12-14hrs
+31-Ragigudda,5,AM,12-14hrs
+31-Ragigudda,6,AM,12-14hrs
+31-Ragigudda,7,AM,12-14hrs
+31-Ragigudda,1,PM,14-16hrs
+31-Ragigudda,2,PM,17-19hrs
+31-Ragigudda,3,PM,19-21hrs
+31-Ragigudda,4,PM,18-20hrs
+31-Ragigudda,5,PM,18-20hrs
+31-Ragigudda,6,PM,18-20hrs
+31-Ragigudda,7,PM,15-17hrs
+310-Beratena Agrahara,1,AM,12-14hrs
+310-Beratena Agrahara,2,AM,10-12hrs
+310-Beratena Agrahara,3,AM,9-11hrs
+310-Beratena Agrahara,4,AM,9-11hrs
+310-Beratena Agrahara,5,AM,9-11hrs
+310-Beratena Agrahara,6,AM,12-14hrs
+310-Beratena Agrahara,7,AM,12-14hrs
+310-Beratena Agrahara,1,PM,16-18hrs
+310-Beratena Agrahara,2,PM,18-20hrs
+310-Beratena Agrahara,3,PM,18-20hrs
+310-Beratena Agrahara,4,PM,18-20hrs
+310-Beratena Agrahara,5,PM,18-20hrs
+310-Beratena Agrahara,6,PM,16-18hrs
+310-Beratena Agrahara,7,PM,17-19hrs
+311-Electronic City,1,AM,12-14hrs
+311-Electronic City,2,AM,9-11hrs
+311-Electronic City,3,AM,12-14hrs
+311-Electronic City,4,AM,12-14hrs
+311-Electronic City,5,AM,12-14hrs
+311-Electronic City,6,AM,12-14hrs
+311-Electronic City,7,AM,12-14hrs
+311-Electronic City,1,PM,17-19hrs
+311-Electronic City,2,PM,17-19hrs
+311-Electronic City,3,PM,17-19hrs
+311-Electronic City,4,PM,17-19hrs
+311-Electronic City,5,PM,18-20hrs
+311-Electronic City,6,PM,15-17hrs
+311-Electronic City,7,PM,15-17hrs
+312-Infosys Foundation Konappana Agrahara,1,AM,12-14hrs
+312-Infosys Foundation Konappana Agrahara,2,AM,9-11hrs
+312-Infosys Foundation Konappana Agrahara,3,AM,9-11hrs
+312-Infosys Foundation Konappana Agrahara,4,AM,9-11hrs
+312-Infosys Foundation Konappana Agrahara,5,AM,12-14hrs
+312-Infosys Foundation Konappana Agrahara,6,AM,11-13hrs
+312-Infosys Foundation Konappana Agrahara,7,AM,12-14hrs
+312-Infosys Foundation Konappana Agrahara,1,PM,16-18hrs
+312-Infosys Foundation Konappana Agrahara,2,PM,18-20hrs
+312-Infosys Foundation Konappana Agrahara,3,PM,18-20hrs
+312-Infosys Foundation Konappana Agrahara,4,PM,17-19hrs
+312-Infosys Foundation Konappana Agrahara,5,PM,18-20hrs
+312-Infosys Foundation Konappana Agrahara,6,PM,15-17hrs
+312-Infosys Foundation Konappana Agrahara,7,PM,15-17hrs
+313-Huskur Road,1,AM,11-13hrs
+313-Huskur Road,2,AM,9-11hrs
+313-Huskur Road,3,AM,9-11hrs
+313-Huskur Road,4,AM,9-11hrs
+313-Huskur Road,5,AM,9-11hrs
+313-Huskur Road,6,AM,12-14hrs
+313-Huskur Road,7,AM,12-14hrs
+313-Huskur Road,1,PM,17-19hrs
+313-Huskur Road,2,PM,17-19hrs
+313-Huskur Road,3,PM,18-20hrs
+313-Huskur Road,4,PM,17-19hrs
+313-Huskur Road,5,PM,18-20hrs
+313-Huskur Road,6,PM,15-17hrs
+313-Huskur Road,7,PM,15-17hrs
+314-Biocon Hebbagodi,1,AM,11-13hrs
+314-Biocon Hebbagodi,2,AM,9-11hrs
+314-Biocon Hebbagodi,3,AM,9-11hrs
+314-Biocon Hebbagodi,4,AM,9-11hrs
+314-Biocon Hebbagodi,5,AM,9-11hrs
+314-Biocon Hebbagodi,6,AM,12-14hrs
+314-Biocon Hebbagodi,7,AM,11-13hrs
+314-Biocon Hebbagodi,1,PM,16-18hrs
+314-Biocon Hebbagodi,2,PM,18-20hrs
+314-Biocon Hebbagodi,3,PM,18-20hrs
+314-Biocon Hebbagodi,4,PM,18-20hrs
+314-Biocon Hebbagodi,5,PM,18-20hrs
+314-Biocon Hebbagodi,6,PM,15-17hrs
+314-Biocon Hebbagodi,7,PM,15-17hrs
+315-Delta Electronics Bommasandra,1,AM,12-14hrs
+315-Delta Electronics Bommasandra,2,AM,9-11hrs
+315-Delta Electronics Bommasandra,3,AM,9-11hrs
+315-Delta Electronics Bommasandra,4,AM,9-11hrs
+315-Delta Electronics Bommasandra,5,AM,12-14hrs
+315-Delta Electronics Bommasandra,6,AM,12-14hrs
+315-Delta Electronics Bommasandra,7,AM,11-13hrs
+315-Delta Electronics Bommasandra,1,PM,16-18hrs
+315-Delta Electronics Bommasandra,2,PM,18-20hrs
+315-Delta Electronics Bommasandra,3,PM,18-20hrs
+315-Delta Electronics Bommasandra,4,PM,18-20hrs
+315-Delta Electronics Bommasandra,5,PM,18-20hrs
+315-Delta Electronics Bommasandra,6,PM,15-17hrs
+315-Delta Electronics Bommasandra,7,PM,15-17hrs
+32-Jayadeva Hospital,1,AM,12-14hrs
+32-Jayadeva Hospital,2,AM,12-14hrs
+32-Jayadeva Hospital,3,AM,12-14hrs
+32-Jayadeva Hospital,4,AM,9-11hrs
+32-Jayadeva Hospital,5,AM,12-14hrs
+32-Jayadeva Hospital,6,AM,11-13hrs
+32-Jayadeva Hospital,7,AM,12-14hrs
+32-Jayadeva Hospital,1,PM,18-20hrs
+32-Jayadeva Hospital,2,PM,18-20hrs
+32-Jayadeva Hospital,3,PM,18-20hrs
+32-Jayadeva Hospital,4,PM,18-20hrs
+32-Jayadeva Hospital,5,PM,18-20hrs
+32-Jayadeva Hospital,6,PM,17-19hrs
+32-Jayadeva Hospital,7,PM,17-19hrs
+33-BTM Layout,1,AM,11-13hrs
+33-BTM Layout,2,AM,9-11hrs
+33-BTM Layout,3,AM,9-11hrs
+33-BTM Layout,4,AM,9-11hrs
+33-BTM Layout,5,AM,9-11hrs
+33-BTM Layout,6,AM,11-13hrs
+33-BTM Layout,7,AM,12-14hrs
+33-BTM Layout,1,PM,17-19hrs
+33-BTM Layout,2,PM,18-20hrs
+33-BTM Layout,3,PM,18-20hrs
+33-BTM Layout,4,PM,18-20hrs
+33-BTM Layout,5,PM,19-21hrs
+33-BTM Layout,6,PM,16-18hrs
+33-BTM Layout,7,PM,16-18hrs
+34-Central Silk Board,1,AM,12-14hrs
+34-Central Silk Board,2,AM,9-11hrs
+34-Central Silk Board,3,AM,9-11hrs
+34-Central Silk Board,4,AM,9-11hrs
+34-Central Silk Board,5,AM,9-11hrs
+34-Central Silk Board,6,AM,12-14hrs
+34-Central Silk Board,7,AM,12-14hrs
+34-Central Silk Board,1,PM,17-19hrs
+34-Central Silk Board,2,PM,18-20hrs
+34-Central Silk Board,3,PM,18-20hrs
+34-Central Silk Board,4,PM,18-20hrs
+34-Central Silk Board,5,PM,19-21hrs
+34-Central Silk Board,6,PM,17-19hrs
+34-Central Silk Board,7,PM,16-18hrs
+35-Bommanahalli,1,AM,11-13hrs
+35-Bommanahalli,2,AM,9-11hrs
+35-Bommanahalli,3,AM,9-11hrs
+35-Bommanahalli,4,AM,9-11hrs
+35-Bommanahalli,5,AM,9-11hrs
+35-Bommanahalli,6,AM,11-13hrs
+35-Bommanahalli,7,AM,12-14hrs
+35-Bommanahalli,1,PM,16-18hrs
+35-Bommanahalli,2,PM,18-20hrs
+35-Bommanahalli,3,PM,18-20hrs
+35-Bommanahalli,4,PM,18-20hrs
+35-Bommanahalli,5,PM,19-21hrs
+35-Bommanahalli,6,PM,16-18hrs
+35-Bommanahalli,7,PM,17-19hrs
+36-Hongasandra,1,AM,12-14hrs
+36-Hongasandra,2,AM,12-14hrs
+36-Hongasandra,3,AM,9-11hrs
+36-Hongasandra,4,AM,9-11hrs
+36-Hongasandra,5,AM,9-11hrs
+36-Hongasandra,6,AM,11-13hrs
+36-Hongasandra,7,AM,12-14hrs
+36-Hongasandra,1,PM,16-18hrs
+36-Hongasandra,2,PM,18-20hrs
+36-Hongasandra,3,PM,18-20hrs
+36-Hongasandra,4,PM,17-19hrs
+36-Hongasandra,5,PM,18-20hrs
+36-Hongasandra,6,PM,17-19hrs
+36-Hongasandra,7,PM,18-20hrs
+37-Kudlu Gate,1,AM,12-14hrs
+37-Kudlu Gate,2,AM,9-11hrs
+37-Kudlu Gate,3,AM,9-11hrs
+37-Kudlu Gate,4,AM,9-11hrs
+37-Kudlu Gate,5,AM,9-11hrs
+37-Kudlu Gate,6,AM,11-13hrs
+37-Kudlu Gate,7,AM,12-14hrs
+37-Kudlu Gate,1,PM,17-19hrs
+37-Kudlu Gate,2,PM,18-20hrs
+37-Kudlu Gate,3,PM,18-20hrs
+37-Kudlu Gate,4,PM,18-20hrs
+37-Kudlu Gate,5,PM,19-21hrs
+37-Kudlu Gate,6,PM,16-18hrs
+37-Kudlu Gate,7,PM,17-19hrs
+38-Singasandra,1,AM,12-14hrs
+38-Singasandra,2,AM,9-11hrs
+38-Singasandra,3,AM,9-11hrs
+38-Singasandra,4,AM,8-10hrs
+38-Singasandra,5,AM,9-11hrs
+38-Singasandra,6,AM,12-14hrs
+38-Singasandra,7,AM,12-14hrs
+38-Singasandra,1,PM,16-18hrs
+38-Singasandra,2,PM,18-20hrs
+38-Singasandra,3,PM,18-20hrs
+38-Singasandra,4,PM,17-19hrs
+38-Singasandra,5,PM,18-20hrs
+38-Singasandra,6,PM,15-17hrs
+38-Singasandra,7,PM,15-17hrs
+39-Hosa Road,1,AM,12-14hrs
+39-Hosa Road,2,AM,9-11hrs
+39-Hosa Road,3,AM,9-11hrs
+39-Hosa Road,4,AM,9-11hrs
+39-Hosa Road,5,AM,9-11hrs
+39-Hosa Road,6,AM,11-13hrs
+39-Hosa Road,7,AM,12-14hrs
+39-Hosa Road,1,PM,16-18hrs
+39-Hosa Road,2,PM,18-20hrs
+39-Hosa Road,3,PM,17-19hrs
+39-Hosa Road,4,PM,18-20hrs
+39-Hosa Road,5,PM,19-21hrs
+39-Hosa Road,6,PM,15-17hrs
+39-Hosa Road,7,PM,15-17hrs
