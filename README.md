@@ -11,7 +11,7 @@ By utilizing a three-tier data lake strategy (Bronze → Silver → Gold), this 
 
 ### Master Orchestration Pipeline
 The master pipeline mechanizes the dependency chain, ensuring the Silver layer only begins after a successful Bronze ingestion, and the Gold layer only processes validated Silver data.
-![Master Pipeline](images/master-pipeline.png)
+![Master Pipeline](Azure-ADF-Medallion-Transit/sample/EXC PIPELINE.png)
 
 ### Peak Hour Analytics Data Flow
 Detailed view of the transformation logic. This Spark-based Data Flow utilizes multiple **Window Functions**, **Filters**, and **Aggregations** to identify peak-hour bottlenecks and transit performance metrics.
