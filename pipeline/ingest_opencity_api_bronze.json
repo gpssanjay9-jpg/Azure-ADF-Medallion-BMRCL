@@ -45,7 +45,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "Json1",
+						"referenceName": "bronze",
 						"type": "DatasetReference"
 					}
 				]
