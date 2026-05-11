@@ -1,13 +1,13 @@
 # Multi-Stage Azure Transit Data Pipeline (Medallion Architecture)
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates a production-grade implementation of a **Medallion Architecture** using **Azure Data Factory (ADF)**. The system is engineered to ingest, process, and curate high-velocity transit telemetry from the **OpenCity API**, transforming raw JSON data into actionable insights for urban transit cost-feasibility modeling.
 
 By utilizing a three-tier data lake strategy (Bronze → Silver → Gold), this project ensures high data quality, lineage transparency, and optimized performance for downstream analytics in **Azure Synapse Analytics**.
 
 ---
 
-## 🏗️ Data Architecture (Medallion Framework)
+##  Data Architecture (Medallion Framework)
 
 ### 1. Bronze Layer (Ingestion)
 * **Logic:** Mechanized raw data extraction from REST API endpoints.
@@ -25,7 +25,7 @@ By utilizing a three-tier data lake strategy (Bronze → Silver → Gold), this 
 
 ---
 
-## 🛠️ Technical Stack & Skills
+##  Technical Stack & Skills
 * **Orchestration:** Azure Data Factory (Master Pipeline with ExecutePipeline dependencies).
 * **Storage/Compute:** Azure Data Lake Gen2, Azure Synapse Analytics, Microsoft Fabric (OneLake).
 * **Version Control:** Native **Git Integration** within ADF for mechanized code deployments.
@@ -34,7 +34,7 @@ By utilizing a three-tier data lake strategy (Bronze → Silver → Gold), this 
 
 ---
 
-## ⚙️ Reliability & Performance Tuning
+##  Reliability & Performance Tuning
 To meet enterprise-grade **SLA requirements**, the following features were implemented:
 * **Fault Tolerance:** Mechanized retry policies (30-second intervals) for API ingestion.
 * **SLA Optimization:** Optimized SQL extraction logic, contributing to a **35% reduction** in processing latency.
@@ -43,7 +43,7 @@ To meet enterprise-grade **SLA requirements**, the following features were imple
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```text
 ├── pipeline/      # JSON definitions for Bronze, Silver, Gold & Master Orchestrator
 ├── dataflow/      # Transformation logic (Mapping Data Flows)
