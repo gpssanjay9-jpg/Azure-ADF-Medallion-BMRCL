@@ -1,0 +1,15 @@
+{
+	"name": "bmrcl",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e10a2083-3d55-433c-967d-b4d958f75f18",
+		"tenantId": "36e917dc-1abe-43f4-b189-f92196a6b4ad"
+	}
+}

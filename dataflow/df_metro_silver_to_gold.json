@@ -1,0 +1,111 @@
+{
+	"name": "df_metro_silver_to_gold",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "silver",
+						"type": "DatasetReference"
+					},
+					"name": "source1"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "Peakhrgold",
+						"type": "DatasetReference"
+					},
+					"name": "peakhrgold"
+				}
+			],
+			"transformations": [
+				{
+					"name": "filter1"
+				},
+				{
+					"name": "window1"
+				},
+				{
+					"name": "window2"
+				},
+				{
+					"name": "window4"
+				},
+				{
+					"name": "filter2"
+				},
+				{
+					"name": "PEAKHR"
+				},
+				{
+					"name": "select1"
+				},
+				{
+					"name": "aggregate1"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          BUSINESSDATE as date,",
+				"          STATION as string,",
+				"          TOTAL as integer,",
+				"          TimeInterval as string,",
+				"          PassengerCount as short,",
+				"          start_time as string,",
+				"          Weekday as integer,",
+				"          AMPM as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false,",
+				"     format: 'parquet') ~> source1",
+				"window2 filter(peakrank==1) ~> filter1",
+				"source1 window(over(BUSINESSDATE,",
+				"          STATION,",
+				"          AMPM),",
+				"     asc(start_time, true),",
+				"     startRowOffset: -2L,",
+				"     endRowOffset: 0L,",
+				"     threehrcum = sum(PassengerCount),",
+				"     rangeSpecified: true) ~> window1",
+				"window1 window(over(BUSINESSDATE,",
+				"          STATION,",
+				"          AMPM),",
+				"     desc(threehrcum, true),",
+				"     peakrank = rank()) ~> window2",
+				"aggregate1 window(over(STATION,",
+				"          AMPM,",
+				"          Weekday),",
+				"     desc(freq, true),",
+				"     rankfreq = rowNumber()) ~> window4",
+				"window4 filter(rankfreq==1) ~> filter2",
+				"filter2 derive(peakhr = toString(toInteger(substring(start_time,0,2)) - 1)   + '-' + toString(toInteger(substring(start_time,0,2)) + 1)   + 'hrs') ~> PEAKHR",
+				"PEAKHR select(mapColumn(",
+				"          STATION,",
+				"          Weekday,",
+				"          AMPM,",
+				"          peakhr",
+				"     ),",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> select1",
+				"filter1 aggregate(groupBy(STATION,",
+				"          Weekday,",
+				"          AMPM,",
+				"          start_time),",
+				"     freq = count(start_time)) ~> aggregate1",
+				"select1 sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     partitionFileNames:['peakhr'],",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     partitionBy('hash', 1)) ~> peakhrgold"
+			]
+		}
+	}
+}

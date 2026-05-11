@@ -1,0 +1,126 @@
+{
+	"name": "df_metro_bronze_to_silver",
+	"properties": {
+		"type": "MappingDataFlow",
+		"typeProperties": {
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "Json1",
+						"type": "DatasetReference"
+					},
+					"name": "source1"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "silver",
+						"type": "DatasetReference"
+					},
+					"name": "silver",
+					"rejectedDataLinkedService": {
+						"referenceName": "AzureDataLakeStorage1",
+						"type": "LinkedServiceReference"
+					}
+				}
+			],
+			"transformations": [
+				{
+					"name": "flatten1"
+				},
+				{
+					"name": "derivedColumn1"
+				},
+				{
+					"name": "unpivot1"
+				},
+				{
+					"name": "derivedColumn2"
+				},
+				{
+					"name": "derivedColumn3"
+				}
+			],
+			"scriptLines": [
+				"source(output(",
+				"          help as string,",
+				"          result as ({_links} as (next as string, start as string), fields as (id as string, type as string)[], include_total as boolean, limit as short, records as ({00:00 Hrs To     01:00 Hrs} as short, {01:00 Hrs To     02:00 Hrs} as boolean, {02:00 Hrs To     03:00 Hrs} as boolean, {03:00 Hrs To     04:00 Hrs} as boolean, {04:00 Hrs To     05:00 Hrs} as short, {05:00 Hrs To     06:00 Hrs} as short, {06:00 Hrs To     07:00 Hrs} as short, {07:00 Hrs To     08:00 Hrs} as short, {08:00 Hrs To     09:00 Hrs} as short, {09:00 Hrs To     10:00 Hrs} as short, {10:00 Hrs To     11:00 Hrs} as short, {11:00 Hrs To     12:00 Hrs} as short, {12:00 Hrs To     13:00 Hrs} as short, {13:00 Hrs To     14:00 Hrs} as short, {14:00 Hrs To     15:00 Hrs} as short, {15:00 Hrs To     16:00 Hrs} as short, {16:00 Hrs To     17:00 Hrs} as short, {17:00 Hrs To     18:00 Hrs} as short, {18:00 Hrs To     19:00 Hrs} as short, {19:00 Hrs To     20:00 Hrs} as short, {20:00 Hrs To     21:00 Hrs} as short, {21:00 Hrs To     22:00 Hrs} as short, {22:00 Hrs To     23:00 Hrs} as short, {23:00 Hrs To Last train} as short, {BUSINESS DATE} as date, STATION as string, TOTAL as integer, {_id} as short)[], records_format as string, resource_id as string, total as short, total_estimation_threshold as string, total_was_estimated as boolean),",
+				"          success as boolean",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     ignoreNoFilesFound: false,",
+				"     documentForm: 'documentPerLine') ~> source1",
+				"source1 foldDown(unroll(result.records, result.records),",
+				"     mapColumn(",
+				"          {00:00 Hrs To     01:00 Hrs} = result.records.{00:00 Hrs To     01:00 Hrs},",
+				"          {01:00 Hrs To     02:00 Hrs} = result.records.{01:00 Hrs To     02:00 Hrs},",
+				"          {02:00 Hrs To     03:00 Hrs} = result.records.{02:00 Hrs To     03:00 Hrs},",
+				"          {03:00 Hrs To     04:00 Hrs} = result.records.{03:00 Hrs To     04:00 Hrs},",
+				"          {04:00 Hrs To     05:00 Hrs} = result.records.{04:00 Hrs To     05:00 Hrs},",
+				"          {05:00 Hrs To     06:00 Hrs} = result.records.{05:00 Hrs To     06:00 Hrs},",
+				"          {06:00 Hrs To     07:00 Hrs} = result.records.{06:00 Hrs To     07:00 Hrs},",
+				"          {07:00 Hrs To     08:00 Hrs} = result.records.{07:00 Hrs To     08:00 Hrs},",
+				"          {08:00 Hrs To     09:00 Hrs} = result.records.{08:00 Hrs To     09:00 Hrs},",
+				"          {09:00 Hrs To     10:00 Hrs} = result.records.{09:00 Hrs To     10:00 Hrs},",
+				"          {10:00 Hrs To     11:00 Hrs} = result.records.{10:00 Hrs To     11:00 Hrs},",
+				"          {11:00 Hrs To     12:00 Hrs} = result.records.{11:00 Hrs To     12:00 Hrs},",
+				"          {12:00 Hrs To     13:00 Hrs} = result.records.{12:00 Hrs To     13:00 Hrs},",
+				"          {13:00 Hrs To     14:00 Hrs} = result.records.{13:00 Hrs To     14:00 Hrs},",
+				"          {14:00 Hrs To     15:00 Hrs} = result.records.{14:00 Hrs To     15:00 Hrs},",
+				"          {15:00 Hrs To     16:00 Hrs} = result.records.{15:00 Hrs To     16:00 Hrs},",
+				"          {16:00 Hrs To     17:00 Hrs} = result.records.{16:00 Hrs To     17:00 Hrs},",
+				"          {17:00 Hrs To     18:00 Hrs} = result.records.{17:00 Hrs To     18:00 Hrs},",
+				"          {18:00 Hrs To     19:00 Hrs} = result.records.{18:00 Hrs To     19:00 Hrs},",
+				"          {19:00 Hrs To     20:00 Hrs} = result.records.{19:00 Hrs To     20:00 Hrs},",
+				"          {20:00 Hrs To     21:00 Hrs} = result.records.{20:00 Hrs To     21:00 Hrs},",
+				"          {21:00 Hrs To     22:00 Hrs} = result.records.{21:00 Hrs To     22:00 Hrs},",
+				"          {22:00 Hrs To     23:00 Hrs} = result.records.{22:00 Hrs To     23:00 Hrs},",
+				"          {23:00 Hrs To Last train} = result.records.{23:00 Hrs To Last train},",
+				"          {BUSINESS DATE} = result.records.{BUSINESS DATE},",
+				"          STATION = result.records.STATION,",
+				"          TOTAL = result.records.TOTAL",
+				"     ),",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> flatten1",
+				"flatten1 derive({00:00 Hrs To     01:00 Hrs} = toShort(0),",
+				"          {01:00 Hrs To     02:00 Hrs} = toShort(0),",
+				"          {02:00 Hrs To     03:00 Hrs} = toShort(0),",
+				"          {03:00 Hrs To     04:00 Hrs} = toShort(0)) ~> derivedColumn1",
+				"derivedColumn1 unpivot(output(",
+				"          TimeInterval as string,",
+				"          PassengerCount as short",
+				"     ),",
+				"     ungroupBy({BUSINESS DATE},",
+				"          STATION,",
+				"          TOTAL),",
+				"     lateral: true,",
+				"     ignoreNullPivots: false) ~> unpivot1",
+				"unpivot1 derive(start_time = left(TimeInterval, 5),",
+				"          Weekday = dayOfWeek(toTimestamp({BUSINESS DATE}))) ~> derivedColumn2",
+				"derivedColumn2 derive(AMPM = iif(toInteger(left(start_time, 2)) < 14, 'AM', 'PM')) ~> derivedColumn3",
+				"derivedColumn3 sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     format: 'parquet',",
+				"     partitionFileNames:['silver.snappy.parquet'],",
+				"     umask: 0022,",
+				"     preCommands: [],",
+				"     postCommands: [],",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     mapColumn(",
+				"          BUSINESSDATE = {BUSINESS DATE},",
+				"          STATION,",
+				"          TOTAL,",
+				"          TimeInterval,",
+				"          PassengerCount,",
+				"          start_time,",
+				"          Weekday,",
+				"          AMPM",
+				"     ),",
+				"     partitionBy('hash', 1)) ~> silver"
+			]
+		}
+	}
+}

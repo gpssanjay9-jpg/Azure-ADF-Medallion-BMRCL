@@ -1,0 +1,22 @@
+{
+	"name": "RestResource1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "opencitybmrcl",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"a": {
+				"type": "string",
+				"defaultValue": "a"
+			}
+		},
+		"annotations": [],
+		"type": "RestResource",
+		"typeProperties": {
+			"relativeUrl": "https://data.opencity.in/api/action/datastore_search?resource_id=45259d6e-41b4-4012-8553-0d27219f83a7&limit=1356"
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
